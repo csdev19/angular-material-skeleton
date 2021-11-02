@@ -2,7 +2,14 @@
 
 This repo has all the basic configurations for angular material to make fast projects.
 
+## Features
 
+- [x] Angular 12
+- [x] Angular Material
+- [x] Eslint
+- [ ] Jest
+- [ ] Docker
+- [ ] Tailwind (maybe)
 
 
 ## Development server
