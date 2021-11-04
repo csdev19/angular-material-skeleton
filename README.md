@@ -10,6 +10,8 @@ This repo has all the basic configurations for angular material to make fast pro
 - [x] Jest
 - [ ] Docker
 - [ ] Tailwind (maybe)
+- [ ] Github actions 
+- [ ] Githooks (husky sounds good)
 
 
 ## Development server
