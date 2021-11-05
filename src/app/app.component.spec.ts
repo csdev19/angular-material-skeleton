@@ -29,6 +29,6 @@ describe('AppComponent', () => {
     fixture.detectChanges();
     const compiled = fixture.debugElement.nativeElement;
     expect(compiled.querySelector('h1').textContent)
-      .toContain('This is the app component!');
+      .toContain('TailwindCSS and Angular is awesome!');
   });
 });
