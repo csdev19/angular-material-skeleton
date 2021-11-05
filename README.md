@@ -9,9 +9,28 @@ This repo has all the basic configurations for angular material to make fast pro
 - [x] Eslint
 - [x] Jest
 - [ ] Docker
-- [ ] Tailwind (maybe)
+- [x] Tailwind (maybe)
 - [ ] Github actions 
 - [ ] Githooks (husky sounds good)
+
+
+## How I set many configurations
+
+
+### Tailwind
+-----------------------
+
+I have used this [article](https://jacobneterer.medium.com/angular-and-tailwindcss-2388fb6e0bab)
+
+
+### Jest
+------------------------
+
+I have used this articles:
+
+- [Jest documentation](https://jestjs.io/docs/getting-started)
+- [Jest integration with the framework from his documentation](https://www.xfive.co/blog/testing-angular-faster-jest/)
+
 
 
 ## Development server
