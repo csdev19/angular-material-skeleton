@@ -1,4 +1,4 @@
-# Angular material boilerplate
+# Angular material boilerplate U+1F92B
 
 This repo has all the basic configurations for angular material to make fast projects.
 
