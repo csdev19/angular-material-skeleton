@@ -1,6 +1,26 @@
-# Angular material boilerplate U+1F92B
+# Angular material boilerplate 🤫
 
 This repo has all the basic configurations for angular material to make fast projects.
+
+## How to run the project
+
+1. Make a clone
+
+```
+git clone <url-repo>
+```
+
+2. Enter into the folder and install all the packages
+
+```
+npm i
+```
+
+3. Run the server
+
+```
+npm run start
+```
 
 ## Features
 
